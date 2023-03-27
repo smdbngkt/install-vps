@@ -27,7 +27,7 @@ echo -e "${NC}${LIGHT}Telegram : https://t.me/Akbar218"
 exit 0
 fi
 # Link Hosting Kalian
-akbarvpn="raw.githubusercontent.com/senowahyu62/scriptvps/main/shadowsocks"
+akbarvpn="raw.githubusercontent.com/smdbngkt/install-vps/main/shadowsocks"
 
 source /etc/os-release
 OS=$ID
